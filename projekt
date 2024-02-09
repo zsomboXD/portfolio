@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Drums",
+        "descr": "az érintett témakörök, technológiák felsorakoztatása",
+        "mainImg": "az img url",
+        "gitHub": "link",
+        "hosted": "publikált oldal linkje",
+        "createdAt": "2023.11.10."
+    },
+    {
+        "id": 1,
+        "title": "Drums",
+        "descr": "az érintett témakörök, technológiák felsorakoztatása",
+        "mainImg": "az img url",
+        "gitHub": "link",
+        "hosted": "publikált oldal linkje",
+        "createdAt": "2023.11.10."
+    }
+]
